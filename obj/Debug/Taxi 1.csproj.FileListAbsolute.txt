@@ -1,0 +1,7 @@
+D:\20.11.3391\Taxi\Taxi 1\Taxi 1\bin\Debug\Taxi 1.exe.config
+D:\20.11.3391\Taxi\Taxi 1\Taxi 1\bin\Debug\Taxi 1.exe
+D:\20.11.3391\Taxi\Taxi 1\Taxi 1\bin\Debug\Taxi 1.pdb
+D:\20.11.3391\Taxi\Taxi 1\Taxi 1\obj\Debug\Taxi 1.csprojAssemblyReference.cache
+D:\20.11.3391\Taxi\Taxi 1\Taxi 1\obj\Debug\Taxi 1.csproj.CoreCompileInputs.cache
+D:\20.11.3391\Taxi\Taxi 1\Taxi 1\obj\Debug\Taxi 1.exe
+D:\20.11.3391\Taxi\Taxi 1\Taxi 1\obj\Debug\Taxi 1.pdb
